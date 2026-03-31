@@ -1,0 +1,6 @@
+credentials.json
+venv/
+__pycache__/
+*.pyc
+*.pdf
+*.mp4
